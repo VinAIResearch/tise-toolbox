@@ -1,0 +1,3 @@
+Class average accuracy for all classes (SOA-C) is: 0.0924 
+Image weighted average accuracy (SOA-I) is: 0.0990 
+Top (SOA-C-Top40) and Bottom (SOA-C-Bot40) 40 class average accuracy is: 0.1183 and 0.0665

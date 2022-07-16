@@ -1,0 +1,1 @@
+[Inception Score] mean: 33.78558 std: 1.08722
