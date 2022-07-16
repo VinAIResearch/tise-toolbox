@@ -19,7 +19,7 @@ Details of our evaluation framework and benchmark results can be found in [our p
 @inproceedings{dinh2021tise,
     title={TISE: Bag of Metrics for Text-to-Image Synthesis Evaluation},
     author={Tan M. Dinh and Rang Nguyen and Binh-Son Hua},
-    booktitle={European Conference on Computer Vision (ECCV)},
+    booktitle={Proceedings of the European Conference on Computer Vision (ECCV)},
     year={2022}
 }
 ```
