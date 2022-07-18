@@ -464,7 +464,7 @@ Below is a list of related text-to-image generation models we use in our benchma
 ### Single-object Text-To-Image Synthesis (CUB)
 
 <details><summary>CLICK TO VIEW</summary>
-<p>
+
 | Method       |   IS*   |    FID  |    RP   |   
 |:-------------|:------: |:-------:|:------: |
 | GAN-INT-CLS  |  7.51   |  194.41 |  3.83   |  
@@ -475,14 +475,13 @@ Below is a list of related text-to-image generation models we use in our benchma
 | DM-GAN + CL  |  15.08  |  14.57  |  69.80  |  
 | DF-GAN       |  14.70  |  16.46  |  42.95  |   
 | AttnGAN++    |  15.13  |  15.01  |  77.31  | 
-</p>
 </details>
 
 
 ### Multi-object Text-To-Image Synthesis (MS-COCO)
 
 <details><summary>CLICK TO VIEW</summary>
-<p>
+
 | Method       |   IS* |    FID |    RP |   SOA-C |   SOA-I |   O-IS |   O-FID |   CA |     PA |   RS |
 |:-------------|------:|-------:|------:|--------:|--------:|-------:|--------:|-----:|-------:|-----:|
 | GAN-CLS      |  8.1  | 192.09 | 10    |    5.31 |    5.71 |   2.46 |   51.13 | 2.51 |  32.79 |  7   |
@@ -496,7 +495,6 @@ Below is a list of related text-to-image generation models we use in our benchma
 | DALLE-Mini (zero-shot)   | 19.82 |  62.9  | 48.72 |   26.64 |   27.9  |   4.1  |   23.83 | 2.31 |  47.39 | 23.5 |
 | AttnGAN++    | 54.63 |  26.58 | 72.48 |   67.83 |   69.97 |   6.01 |   15.43 | 1.57 |  47.75 | 56   |
 | Real-Images  | 51.25 |   2.62 | 83.54 |   90.02 |   91.19 |   8.63 |    0    | 1.05 | 100    | 65   |
-</p>
 </details>
 
 
